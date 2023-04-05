@@ -1,0 +1,2 @@
+# shopifyGraphQl
+GraphQL demo project
